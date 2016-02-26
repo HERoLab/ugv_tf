@@ -1,0 +1,7 @@
+TODO for setting up tf with the UGV:
+
+http://wiki.ros.org/navigation/Tutorials/RobotSetup/TF
+
+Define base_link position.  Where on the robot?
+Define base_laser --> base_link transform.  Where is the LIDAR relative to the base_link?
+Define other sensor --> base_link transforms.
